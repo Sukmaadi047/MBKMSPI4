@@ -1,2 +1,2 @@
 # MBKMSPI4
-Lampiran Code TA Sistem Informasi Presensi
+Lampiran Code Sistem Informasi Presensi
